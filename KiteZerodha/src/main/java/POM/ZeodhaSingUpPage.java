@@ -27,4 +27,7 @@ public class ZeodhaSingUpPage {
     	submit.click();
     }
 	
+    public void ItsOkkkk() {
+    	submit.click();
+    }
 }

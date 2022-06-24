@@ -36,4 +36,8 @@ public class ZerodhaForgotPage {
    public void clickOnBackToLogin() {
 	   BackToLogin.click();
    }
+   
+   
+   
+   
 }
